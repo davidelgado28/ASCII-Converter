@@ -39,16 +39,12 @@ atoi:
 atoi_done:
     cmp rax, 127
     ja erro
-
-    ; imprime "ASCII: "
     mov rax, 1
     mov rdi, 1
     mov rsi, msg_out
     mov rdx, 7
     syscall
-
-    ; imprime o caractere
-    add rax, 48*0      ; rax ja e o codigo ASCII
+    add rax, 48*0     
     mov [entrada], al
     mov rax, 1
     mov rdi, 1
@@ -56,7 +52,6 @@ atoi_done:
     mov rdx, 1
     syscall
 
-    ; newline
     mov byte [entrada], 10
     mov rax, 1
     mov rdi, 1
