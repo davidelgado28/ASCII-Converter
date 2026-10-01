@@ -16,6 +16,7 @@ This project includes source code and implementations in the following languages
 - **C#**
 - **Cobol**
 - **Dart**
+- **Elixir**
 - **Fortran**
 - **Golang**
 - **Java**
@@ -33,8 +34,9 @@ This project includes source code and implementations in the following languages
 - **React**
 - **Ruby**
 - **Rust**
-- **Shell Script**
 - **SQL**
+- **Scala**
+- **Shell Script**
 - **Swift**
 - **TypeScript**
 
