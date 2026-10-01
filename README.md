@@ -20,6 +20,7 @@ This project includes source code and implementations in the following languages
 - **Elixir**
 - **Fortran**
 - **Golang**
+- **HolyC**
 - **Java**
 - **JavaScript**
 - **Julia**
