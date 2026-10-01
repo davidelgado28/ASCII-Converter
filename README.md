@@ -8,6 +8,7 @@ A comprehensive collection of algorithms focused on converting characters and te
 
 This project includes source code and implementations in the following languages:
 
+- **ArnoldC**
 - **Assembly**
 - **Brainfuck**
 - **C**
