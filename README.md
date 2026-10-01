@@ -13,6 +13,7 @@ This project includes source code and implementations in the following languages
 - **Brainfuck**
 - **C**
 - **Carlos**
+- **Chef**
 - **C++**
 - **C#**
 - **Cobol**
