@@ -44,5 +44,3 @@ This project includes source code and implementations in the following languages
 - **TypeScript**
 
 ---
-
-Developed by [davidelgado28](https://github.com)
